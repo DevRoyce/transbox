@@ -1,4 +1,4 @@
-# transbox-  
+# transbox  
 一个用Python编写的翻译软件  
 
 此程序作者：DevRoyce  
